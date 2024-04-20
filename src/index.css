@@ -32,3 +32,16 @@
   padding: 5px 20px;
 }
 
+.detail-page {
+  display: grid;
+  grid-template-columns: auto 400px;
+  gap: 30px;
+  padding: 15px 27px;
+}
+
+@media screen and (max-width: 1000px) {
+  .detail-page {
+    grid-template-columns: 1fr;
+  }
+  
+}

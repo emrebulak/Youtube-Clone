@@ -1,11 +1,14 @@
 import millify from "millify";
 import { useState } from "react";
+import { useNavigate } from "react-router-dom";
 
 const VideoCard = ({ item }) => {
   const [hovered, setHovered] = useState(false);
+  const navigate = useNavigate();
 
   return (
     <div
+      onClick={() => navigate(`/watch?v=${item.videoId}`)}
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}
       className="cursor-pointer"
