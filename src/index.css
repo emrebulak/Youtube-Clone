@@ -43,5 +43,15 @@
   .detail-page {
     grid-template-columns: 1fr;
   }
-  
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 140px auto;
+  align-items: center;
+  gap: 20px;
+}
+
+.row .c-pic, .row .c-title {
+  display: none;
 }
