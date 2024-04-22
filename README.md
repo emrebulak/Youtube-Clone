@@ -1,4 +1,4 @@
-<img src="./assets/img/animation.gif" alt="Youtube Clone">
+<img src="./src/assets/img/animation.gif" alt="Youtube Clone">
 
 # Youtube Klone Projesi (TR)
 
