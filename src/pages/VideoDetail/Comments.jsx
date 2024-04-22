@@ -2,8 +2,6 @@ import { AiOutlineLike, AiOutlineDislike } from "react-icons/ai";
 import { IoMdArrowDropdown } from "react-icons/io";
 
 const Comments = ({ comments }) => {
-  console.log("Yorumlar : ", comments);
-
   return (
     comments && (
       <div className="flex flex-col gap-2 justify-center">

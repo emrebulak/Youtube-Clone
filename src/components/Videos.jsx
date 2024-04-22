@@ -6,9 +6,6 @@ import Loader from "./Loader";
 
 const Videos = () => {
   const { videos, isLoading, error } = useContext(VideoContext);
-
-  console.log("Videos : ", videos);
-
   return (
     <div className="my-3 videos">
       {isLoading ? (

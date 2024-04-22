@@ -1,8 +1,33 @@
-# React + Vite
+<img src="./assets/img/animation.gif" alt="Youtube Clone">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Youtube Klone Projesi (TR)
 
-Currently, two official plugins are available:
+Bu proje HTML, CSS, JS, REACT, TAILWIND, CONTEXT ve Youtube API kullanarak geliştirilmiş tam responsive bir Youtube Klon'u projesidie. Kullanımı kolay ve özelleştirilmiş birr tasarıma sahiptir. Birebir özellikleri Youtube'a benzemektedir.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Kullanılan Teknolojiler
+
+- HTML
+- CSS
+- JS
+- REACT
+- TAILWIND
+- REACT ICONS
+- REACT PLAYER
+- AXIOS
+- CONTEXT
+
+# Youtube Clone Project (EN)
+
+This project is a fully responsive Youtube Clone project developed using HTML, CSS, JS, REACT, TAILWIND, CONTEXT and Youtube API. It has an easy-to-use and customized design. Its exact features are similar to YouTube.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JS
+- REACT
+- TAILWIND
+- REACT ICONS
+- REACT PLAYER
+- AXIOS
+- CONTEXT
